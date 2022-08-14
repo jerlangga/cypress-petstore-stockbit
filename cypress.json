@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://petstore.swagger.io/v2",
+    "execTimeout": 60000,
+    "requestTimeout": 60000,
+    "responseTimeout": 60000
+}
